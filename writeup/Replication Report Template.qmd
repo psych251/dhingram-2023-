@@ -1,6 +1,8 @@
 ---
-title: "Replication of Study X by Sample & Sample (20xx, Psychological Science)"
-author: "Replication Author[s] (contact information)"
+---
+title: "` Who is the identifiable victim? Caste and charitable giving in modern India.`"
+
+author: "`Dean Spears, Ashwini Deshpande (dspears@utexas.edu, ashwini.deshpande@ashoka.edu.in)`"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 format:
   html:
@@ -11,8 +13,29 @@ format:
 <!-- Replication reports should all use this template to standardize reporting across projects.  These reports will be public supplementary materials that accompany the summary report(s) of the aggregate results. -->
 
 ## Introduction
+Overview of the study: 
 
-[No abstract is needed.]  Each replication project will have a straightforward, no frills report of the study and results.  These reports will be publicly available as supplementary material for the aggregate report(s) of the project as a whole.  Also, to maximize project integrity, the intro and methods will be written and critiqued in advance of data collection.  Introductions can be just 1-2 paragraphs clarifying the main idea of the original study, the target finding for replication, and any other essential information.  It will NOT have a literature review -- that is in the original publication. You can write both the introduction and the methods in past tense.  
+In their study, Deshpande & Spears (2016) attempt to test how caste and religious divisions may impact charitable giving across social groups. They seek to embed this question within a previously established finding & paradigm pertaining to the identifiable victim effect: whereby researchers have found that people tend to experience more sympathy when victims are defined as specific individuals as against a statistical group of people. Deshpande & Spears (2016) find that indeed participants are more generous to victims who are identified via generic Indian, upper caste name, and Muslim background as against their statistical counterparts. However, they find no evidence for the impact of the identifiability of victims on donations made to Dalits. Whereby Dalit recipients receive equally few donations when they are identified as individual victims or statistical groups. Researchers also find no significant discrimination between donations made to Dalits, Muslims, and upper caste groups when they are identified as ‘social or statistical groups’. Participants in the study were from largely upper-caste, internet-savvy, literate, high SES backgrounds. 
+
+Motivation to replicate:
+
+The results obtained by Deshpande & Spears (2016) differ from one of my experiments where I tested the impact of exposure to nationalistic ideas on donations made to upper-caste, Dalit and Hindu recipients. In the control group of my study (n =90)  I found no significant discrimination between donations to Dalits (n =30) and Upper-caste recipients (n =30) (identified via their caste names). However, I find marginally significant discrimination towards Muslims (n = 30, p = 0.108). Upon exposure to nationalistic norms, I found that donations made to Muslims were reduced significantly as compared to donations made to upper-caste hindus & Dalits. However, donations made to Dalits remain unaffected in response to exposure to nationalistic norms, any changes are statistically insignificant in comparison to the upper caste. I have recently conducted another study to test whether these effects replicate. Replicating Deshpande & Spears (2016) gives me an additional opportunity to re-test the relative authenticity of the results obtained in the control group of my experiment in an online sample. And allows me to further build on these results to aid a third replication of my nationalism experiment. 
+
+Experiment design, materials & procedure: 
+
+Deshpande & Spears (2016) utilize an online survey experiment to test the interaction of caste and religious identity with the identifiable victim effect. First, participants are shown the experimental prompt: a few sentences of text describing an opportunity for charitable giving. The identity of the recipient receiving the charity is randomized. Participants either see recipients from Muslim, Dalit, upper-caste Hindu or general Indian backgrounds (presented either as victimized groups or identified recipients).  The experiment is thus set up as 4(social identity) x 2 (identifiable, versus statistical group) between group factorial design. Immediately after exposure to the stimuli, participants are asked to rate their willingness to donate. To measure this key dependent variable,  participants are shown a scale ranging from Rs. 0 to 100 and are asked how much money they would be willing to donate.  Following this, participants are asked a set of attention check-related questions. Finally, participants rated the similarity of their family to typical members of 10 different social groups cutting across class, caste, religious and neighbourhood characteristics. Followed by a demographic questionnaire. 
+         
+
+Challenges:  
+
+Bots & Turk farms: Mturk samples in India are known to be fraught with bots, and Turk farms, which have been increasingly reported to skew the quality of data collection. Based on anecdotes from researchers, I have learnt that such problems have increased over the years, and therefore I am more likely to experience such concerns than the authors of the study did in 2015.  I am therefore sceptical of using a Mturk sample to replicate the study. There are other agencies that offer online panel services in India, alongside data quality assurances. Given that my replication isn’t geared towards mapping data quality concerns on Mturk, I believe I should ideally access other services that will provide a better, more robust replication test of the experiment design. 
+
+Regional skew: Anecdotal evidence, based on the experience of other researchers, points towards an increasing regional skew within the Mturk working population. Whereby participants are known to be located in Southern parts of India. Deshpande & Spears (2016) however utilize north Indian caste names to indicate caste. A South Indian participant will not be able to accurately categorize and infer the appropriate caste via the names signalled in the prime. Given that Mturk doesn’t allow us to sample the population via region If I use Mturk I am likely to recruit a larger South India population, this will in turn affect the replicability of the experiment. 
+
+
+Power: Deshpande & Spears (2016) recruited a sample of 400 participants, incidently their sample was a homogeneous group of upper-caste hindus. This led the researchers to obtain 50 upper caste Hindu participants per treatment group. Such homogeneous recruitment of upper case hindus is however not always possible. It is likely that in our recruitment we will not be able to pre-emptively control for demographics. If we ask participants to report their caste at the start of the survey and exclude them on the basis of caste, this will amount to discrimination, and also inadvertently prime caste/ religious identity. Therefore accounting for potential heterogeneity in the recruited sample, and the statistical procedures needed to control for the same, we would need to increase our sample to 800 to have an 80 % chance of seeing the effect size at 0.05 significance level.This project assumes that we will have at least 100-150 people from OBC, SC, and Muslim backgrounds in our sample (each). However, if we work with an agency we can work with  a pre-defined panel of upper caste groups as our sample. 
+
+https://github.com/monishad127/dhingram-2023-.git
 
 
 ## Methods
