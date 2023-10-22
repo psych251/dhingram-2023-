@@ -1,5 +1,4 @@
 ---
----
 title: "` Who is the identifiable victim? Caste and charitable giving in modern India.`"
 
 author: "`Dean Spears, Ashwini Deshpande (dspears@utexas.edu, ashwini.deshpande@ashoka.edu.in)`"
@@ -13,18 +12,13 @@ format:
 <!-- Replication reports should all use this template to standardize reporting across projects.  These reports will be public supplementary materials that accompany the summary report(s) of the aggregate results. -->
 
 ## Introduction
-Overview of the study: 
 
-In their study, Deshpande & Spears (2016) attempt to test how caste and religious divisions may impact charitable giving across social groups. They seek to embed this question within a previously established finding & paradigm pertaining to the identifiable victim effect: whereby researchers have found that people tend to experience more sympathy when victims are defined as specific individuals as against a statistical group of people. Deshpande & Spears (2016) find that indeed participants are more generous to victims who are identified via generic Indian, upper caste name, and Muslim background as against their statistical counterparts. However, they find no evidence for the impact of the identifiability of victims on donations made to Dalits. Whereby Dalit recipients receive equally few donations when they are identified as individual victims or statistical groups. Researchers also find no significant discrimination between donations made to Dalits, Muslims, and upper caste groups when they are identified as ‘social or statistical groups’. Participants in the study were from largely upper-caste, internet-savvy, literate, high SES backgrounds. 
+In their study, Deshpande & Spears (2016) attempt to test how caste and religious identity markers may shape how sympathetic individuals feel towards the out-group. They seek to embed this question within a previously established finding & paradigm pertaining to the identifiable victim effect: whereby researchers have found that people tend to experience more sympathy when victims are defined as specific individuals as against a group identified via broad group-based categorical labels such as “Hindus, Dalits, Whites or Blacks”(Henceforth referred to as a statistical group). Deshpande & Spears (2016) find that indeed participants are more generous to victims who are identified via generic Indian, upper caste name, and Muslim background as against their statistical counterparts. However, they find no evidence for the impact of the identifiability of victims on donations made to Dalits. Whereby Dalit recipients receive equally few donations when they are identified as individual victims or statistical groups. Researchers also find no significant discrimination between donations made to Dalits, Muslims, and upper caste groups when identified as ‘social or statistical groups’. Participants in the study were from largely upper-caste, internet-savvy, literate, high SES backgrounds.
+ 
 
 Motivation to replicate:
 
 The results obtained by Deshpande & Spears (2016) differ from one of my experiments where I tested the impact of exposure to nationalistic ideas on donations made to upper-caste, Dalit and Hindu recipients. In the control group of my study (n =90)  I found no significant discrimination between donations to Dalits (n =30) and Upper-caste recipients (n =30) (identified via their caste names). However, I find marginally significant discrimination towards Muslims (n = 30, p = 0.108). Upon exposure to nationalistic norms, I found that donations made to Muslims were reduced significantly as compared to donations made to upper-caste hindus & Dalits. However, donations made to Dalits remain unaffected in response to exposure to nationalistic norms, any changes are statistically insignificant in comparison to the upper caste. I have recently conducted another study to test whether these effects replicate. Replicating Deshpande & Spears (2016) gives me an additional opportunity to re-test the relative authenticity of the results obtained in the control group of my experiment in an online sample. And allows me to further build on these results to aid a third replication of my nationalism experiment. 
-
-Experiment design, materials & procedure: 
-
-Deshpande & Spears (2016) utilize an online survey experiment to test the interaction of caste and religious identity with the identifiable victim effect. First, participants are shown the experimental prompt: a few sentences of text describing an opportunity for charitable giving. The identity of the recipient receiving the charity is randomized. Participants either see recipients from Muslim, Dalit, upper-caste Hindu or general Indian backgrounds (presented either as victimized groups or identified recipients).  The experiment is thus set up as 4(social identity) x 2 (identifiable, versus statistical group) between group factorial design. Immediately after exposure to the stimuli, participants are asked to rate their willingness to donate. To measure this key dependent variable,  participants are shown a scale ranging from Rs. 0 to 100 and are asked how much money they would be willing to donate.  Following this, participants are asked a set of attention check-related questions. Finally, participants rated the similarity of their family to typical members of 10 different social groups cutting across class, caste, religious and neighbourhood characteristics. Followed by a demographic questionnaire. 
-         
 
 Challenges:  
 
@@ -40,31 +34,80 @@ https://github.com/monishad127/dhingram-2023-.git
 
 ## Methods
 
+
 ### Power Analysis
 
 Original effect size, power analysis for samples to achieve 80%, 90%, 95% power to detect that effect size.  Considerations of feasibility for selecting planned sample size.
 
 ### Planned Sample
 
-Planned sample size and/or termination rule, sampling frame, known demographics if any, preselection rules if any.
+In replicating this design, to askew data quality issues associated with Mturk, I will recruit a sample via an agency called ‘House of Research’. I will geographically locate my study within Uttar Pradesh & Delhi.
 
 ### Materials
 
-All materials - can quote directly from original article - just put the text in quotations and note that this was followed precisely.  Or, quote directly and just point out exceptions to what was described in the original article.
+Participants will be randomly assigned to read about either an identified or statistical recipient. This constitutes the first dimension of randomization. In the identified recipient case, the identification of the recipient’s category will be made only implicitly by his name, using well-known names commonly associated with Dalit, Muslim, Upper Caste Hindu categories. Deshpande & Spears (2015) utilized 20 names, five for each group; each participant was assigned to read about an identifiable recipient and read only one of these five names, randomly presented. For the control treatment, researchers used names that are commonly found across caste levels and are unable to be identified with a particular group. However, since the authors have established (through study 3) that each of these names signals a caste & religious category, I will utilize names with the highest signalling value (factor loading) as indicated in study 3 of the paper. 
+
+The following materials will be utilized to indicate either the ‘group’ or ‘individual’ characteristics of the recipients. 
+
+Those assigned to a statistical victim treatment read: Many GROUP families are very poor. For much of each year, they cannot find work. Thousands of families frequently cannot afford enough basic food to eat. As a result, millions of children go without medicine if they get sick, and often go to bed hungry. 
+
+Those assigned to an identifiable victim treatment read: The family of NAME is very poor. For much of each year, they cannot find work. His family frequently cannot afford enough basic food to eat. As a result, his children go without medicine if they get sick, and often go to bed hungry. 
+
+
+The following attention checks and instructional manipulations will be administered:
+
+“How often have you suffered a fatal heart attack?” Only those who selected “never” were included in the analyzed sample. 
+
+“On many important issues, people have different opinions. Some people
+agree, and some people disagree, even very strongly. Here in this question,
+please select the number four in the slider below, to rule out random clicking.”
+
+To understand how participants self-categorize themselves into a social group, participants will be requested to answer the following questions: 
+
+How much do you believe your family is like a typical family of each of the following types?” The 10 groups, as they will be written on the survey form are as follows: Brahmin, Forward/Upper Castes, OBC ½Other Backward Classes, Dalits, Dalit/SC, Adivasi/ST, Scheduled Tribe; marginalized tribal communities, Muslim, Poor, Middle class, Rural, and Urban.
+
 
 ### Procedure	
 
-Can quote directly from original article - just put the text in quotations and note that this was followed precisely.  Or, quote directly and just point out exceptions to what was described in the original article.
+Experiment Design
+
+Deshpande & Spears (2016) recruited an Indian Sample via Mturk to conduct an online survey experiment to test the interaction of caste and religious identity with the identifiable victim effect. I will use an equivalently comparable method, and recruit a sample via an agency. First, participants are shown the experimental prompt: a few sentences of text describing an opportunity for charitable giving. The identity of the recipient receiving the charity is randomised. Participants either see recipients from Muslim, Dalit, upper-caste Hindu or general Indian backgrounds (presented either as victimized groups or identified recipients).  The experiment is thus set up as 4(social identity) x 2 (identifiable, versus statistical group) between group factorial design. Please do note that the original experiment has two statistical treatments for Dalit participants, whereby they are either referred to as Dalits, or the categorical label used for official records 'Scheduled Caste'. However, given that they find no effect of the use of these labels on donations, I will drop this condition while replicating this experiment.Immediately after exposure to the stimuli, participants are asked to rate their willingness to donate. To measure this key dependent variable,  participants are shown a scale ranging from Rs. 0 to 100 and are asked how much money they would be willing to donate. Following this, participants are asked a set of attention check-related questions. Finally, participants rated the similarity of their family to typical members of 10 different social groups cutting across class, caste, religious and neighbourhood characteristics. Followed by a demographic questionnaire.
 
 ### Analysis Plan
 
-Can also quote directly, though it is less often spelled out effectively for an analysis strategy section.  The key is to report an analysis strategy that is as close to the original - data cleaning rules, data exclusion rules, covariates, etc. - as possible.  
 
-**Clarify key analysis of interest here**  You can also pre-specify additional analyses you plan to do.
+Following Deshpande & Spears (2016), I will perform the following steps to understand and analyse the data I obtain via replication:
+
+
+1)Representativeness of the sample: 
+
+I will calculate summary statistics of the participants, and track the extent to which it may be representative of a population from Uttar Pradesh & India.
+
+
+2) Effect of self-categorization & identification with a social group on donations towards recipients from different social categories: 
+
+I will use local polynomial, kernel-weighted regressions to test whether identification with caste, religion, tribe, and SES  impacts willingness to donate to recipients from different social groups.  Following the researchers, I will control for sex and age in performing my analysis. 
+
+
+3) Main effect of identifiability & social identity of the recipient on donations: 
+
+
+Utilizing OLS techniques, I will perform the following steps: 
+
+First, I will pool the data (across treatments) to test the effect of identifiability on donations made to a recipient. Second, I will test the impact of social identity (irrespective of the identifiability) on donations. Third, I will test how identifiability interacts with social identity to impact willingness to donate, controlling for gender, education, size of city/town, and age. 
+
+**Clarify key analysis of interest here**  
+Expecting socio-economic diversity in my sample,I will add controls for income in the main regression analysis. 
 
 ### Differences from Original Study
 
-Explicitly describe known differences in sample, setting, procedure, and analysis plan from original study.  The goal, of course, is to minimize those differences, but differences will inevitably occur.  Also, note whether such differences are anticipated to make a difference based on claims in the original article or subsequent published research on the conditions for obtaining the effect.
+1. I am collapsing these two treatment conditions into one, I will use the word Scheduled Caste instead of Dalit: The variation in the treatments attempt to check whether the name used to refer to ex-untouchable groups makes a difference in how they are identified and categorized.
+
+2.I am utilizing caste & religous names with the highest factor loading, instead of randomly assigning 5 different names to indicate caste/ religion.
+
+3. I am recruiting the sample via an agency called: 'House of research', the study will be limited to Uttar-Pradesh & Delhi.
+
+4. I am translating the survey in Hindi.
 
 ### Methods Addendum (Post Data Collection)
 
