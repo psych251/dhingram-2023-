@@ -16,18 +16,22 @@ format:
 In their study, Deshpande & Spears (2016) attempt to test how caste and religious identity markers may shape how sympathetic individuals feel towards the out-group. They seek to embed this question within a previously established finding & paradigm pertaining to the identifiable victim effect: whereby researchers have found that people tend to experience more sympathy when victims are defined as specific individuals as against a group identified via broad group-based categorical labels such as “Hindus, Dalits, Whites or Blacks”(Henceforth referred to as a statistical group). Deshpande & Spears (2016) find that indeed participants are more generous to victims who are identified via generic Indian, upper caste name, and Muslim background as against their statistical counterparts. However, they find no evidence for the impact of the identifiability of victims on donations made to Dalits. Whereby Dalit recipients receive equally few donations when they are identified as individual victims or statistical groups. Researchers also find no significant discrimination between donations made to Dalits, Muslims, and upper caste groups when identified as ‘social or statistical groups’. Participants in the study were from largely upper-caste, internet-savvy, literate, high SES backgrounds.
  
 
-Motivation to replicate:
+##Motivation to replicate:
 
-The results obtained by Deshpande & Spears (2016) differ from one of my experiments where I tested the impact of exposure to nationalistic ideas on donations made to upper-caste, Dalit and Hindu recipients. In the control group of my study (n =90)  I found no significant discrimination between donations to Dalits (n =30) and Upper-caste recipients (n =30) (identified via their caste names). However, I find marginally significant discrimination towards Muslims (n = 30, p = 0.108). Upon exposure to nationalistic norms, I found that donations made to Muslims were reduced significantly as compared to donations made to upper-caste hindus & Dalits. However, donations made to Dalits remain unaffected in response to exposure to nationalistic norms, any changes are statistically insignificant in comparison to the upper caste. I have recently conducted another study to test whether these effects replicate. Replicating Deshpande & Spears (2016) gives me an additional opportunity to re-test the relative authenticity of the results obtained in the control group of my experiment in an online sample. And allows me to further build on these results to aid a third replication of my nationalism experiment. 
+The results obtained by Deshpande & Spears (2016) differ from one of my experiments where I tested the impact of exposure to nationalistic ideas on donations made to upper-caste, Dalit and Hindu recipients. In the control group of my study (n =90)  I found no significant discrimination between donations to Dalits (n =30) and Upper-caste recipients (n =30) (identified via their caste names). However, I find marginally significant discrimination towards Muslims (n = 30, p = 0.108). Upon exposure to nationalistic norms, I found that donations made to Muslims were reduced significantly as compared to donations made to upper-caste hindus & Dalits. However, donations made to Dalits remain unaffected in response to exposure to nationalistic norms, any changes are statistically insignificant in comparison to the upper caste. I have recently conducted another study to test whether these effects replicate. Replicating Deshpande & Spears (2016) gives me an additional opportunity to re-test the relative authenticity of the results obtained in the control group of my experiment. And allows me to further build on these results to aid a third replication of my nationalism experiment. 
 
-Challenges:  
+##The present study: 
+
+Since finding discrimination against Dalits, but non against Muslims (in the identifiability condition) is the most striking finding reported by Deshpande & Spears, my study will focus on replicating this finding. 
+
+##Challenges:  
 
 Bots & Turk farms: Mturk samples in India are known to be fraught with bots, and Turk farms, which have been increasingly reported to skew the quality of data collection. Based on anecdotes from researchers, I have learnt that such problems have increased over the years, and therefore I am more likely to experience such concerns than the authors of the study did in 2015.  I am therefore sceptical of using a Mturk sample to replicate the study. There are other agencies that offer online panel services in India, alongside data quality assurances. Given that my replication isn’t geared towards mapping data quality concerns on Mturk, I believe I should ideally access other services that will provide a better, more robust replication test of the experiment design. 
 
 Regional skew: Anecdotal evidence, based on the experience of other researchers, points towards an increasing regional skew within the Mturk working population. Whereby participants are known to be located in Southern parts of India. Deshpande & Spears (2016) however utilize north Indian caste names to indicate caste. A South Indian participant will not be able to accurately categorize and infer the appropriate caste via the names signalled in the prime. Given that Mturk doesn’t allow us to sample the population via region If I use Mturk I am likely to recruit a larger South India population, this will in turn affect the replicability of the experiment. 
 
 
-Power: Deshpande & Spears (2016) recruited a sample of 400 participants, incidently their sample was a homogeneous group of upper-caste hindus. This led the researchers to obtain 50 upper caste Hindu participants per treatment group. Such homogeneous recruitment of upper case hindus is however not always possible. It is likely that in our recruitment we will not be able to pre-emptively control for demographics. If we ask participants to report their caste at the start of the survey and exclude them on the basis of caste, this will amount to discrimination, and also inadvertently prime caste/ religious identity. Therefore accounting for potential heterogeneity in the recruited sample, and the statistical procedures needed to control for the same, we would need to increase our sample to 800 to have an 80 % chance of seeing the effect size at 0.05 significance level.This project assumes that we will have at least 100-150 people from OBC, SC, and Muslim backgrounds in our sample (each). However, if we work with an agency we can work with  a pre-defined panel of upper caste groups as our sample. 
+Power: Deshpande & Spears (2016) recruited a sample of 400 participants, incidently their sample was a homogeneous group of upper-caste hindus. This led the researchers to obtain 50 upper caste Hindu participants per treatment group. Such homogeneous recruitment of upper case hindus is however not always possible. It is likely that in our recruitment we will not be able to pre-emptively control for demographics. If we ask participants to report their caste at the start of the survey and exclude them on the basis of caste, this will amount to discrimination, and also inadvertently prime caste/ religious identity. Therefore accounting for potential heterogeneity in the recruited sample, and the statistical procedures needed to control for the same, we would need to increase our sample to 800 to have an 80 % chance of seeing the effect size at 0.05 significance level. I assume that we will have at least 100-150 people from OBC, SC, and Muslim backgrounds in our sample (each). However, if we work with an agency we can work with  a pre-defined panel of upper caste groups as our sample. 
 
 https://github.com/monishad127/dhingram-2023-.git
 
@@ -37,19 +41,18 @@ https://github.com/monishad127/dhingram-2023-.git
 
 ### Power Analysis
 
-Original effect size, power analysis for samples to achieve 80%, 90%, 95% power to detect that effect size.  Considerations of feasibility for selecting planned sample size.
+The original effect size isnt reported, however based on the power calculation and keeping mind limitations noted above I note the following estimate re-power: I would need a sample of 400 to detect a small effect (0.2) at 80 % power, and 0.05 level of significance. 
 
 ### Planned Sample
 
-In replicating this design, to askew data quality issues associated with Mturk, I will recruit a sample via an agency called ‘House of Research’. I will geographically locate my study within Uttar Pradesh & Delhi.
+I will be recruiting the sample from Mturk
 
 ### Materials
 
-Participants will be randomly assigned to read about either an identified or statistical recipient. This constitutes the first dimension of randomization. In the identified recipient case, the identification of the recipient’s category will be made only implicitly by his name, using well-known names commonly associated with Dalit, Muslim, Upper Caste Hindu categories. Deshpande & Spears (2015) utilized 20 names, five for each group; each participant was assigned to read about an identifiable recipient and read only one of these five names, randomly presented. For the control treatment, researchers used names that are commonly found across caste levels and are unable to be identified with a particular group. However, since the authors have established (through study 3) that each of these names signals a caste & religious category, I will utilize names with the highest signalling value (factor loading) as indicated in study 3 of the paper. 
+Participants will be randomly assigned to read about an identified recipient from a Dalit, Muslim or upper caste Hindu background.The identification of the recipient’s category will be made only implicitly by their name, using well-known male names commonly associated with Dalit, Muslim, Upper Caste Hindu categories. Deshpande & Spears (2015) utilized 20 names, five for each group; each participant was assigned to read about an identifiable recipient and read only one of these five names, randomly presented. For the control treatment, researchers used names that are commonly found across caste levels and are not identified with a particular group. However, since the authors have established (through study 3) that each of these names signals a caste & religious category, I will utilize names with the highest signalling value (factor loading) as indicated in study 3 of the paper. 
 
-The following materials will be utilized to indicate either the ‘group’ or ‘individual’ characteristics of the recipients. 
+The following materials will be utilized to indicate ‘individual’ characteristics of the recipients. 
 
-Those assigned to a statistical victim treatment read: Many GROUP families are very poor. For much of each year, they cannot find work. Thousands of families frequently cannot afford enough basic food to eat. As a result, millions of children go without medicine if they get sick, and often go to bed hungry. 
 
 Those assigned to an identifiable victim treatment read: The family of NAME is very poor. For much of each year, they cannot find work. His family frequently cannot afford enough basic food to eat. As a result, his children go without medicine if they get sick, and often go to bed hungry. 
 
@@ -62,6 +65,10 @@ The following attention checks and instructional manipulations will be administe
 agree, and some people disagree, even very strongly. Here in this question,
 please select the number four in the slider below, to rule out random clicking.”
 
+The following manipulation check will be used: 
+
+Please identify which of the following social categories does the "recepient name" belong to? 
+
 To understand how participants self-categorize themselves into a social group, participants will be requested to answer the following questions: 
 
 How much do you believe your family is like a typical family of each of the following types?” The 10 groups, as they will be written on the survey form are as follows: Brahmin, Forward/Upper Castes, OBC ½Other Backward Classes, Dalits, Dalit/SC, Adivasi/ST, Scheduled Tribe; marginalized tribal communities, Muslim, Poor, Middle class, Rural, and Urban.
@@ -71,7 +78,10 @@ How much do you believe your family is like a typical family of each of the foll
 
 Experiment Design
 
-Deshpande & Spears (2016) recruited an Indian Sample via Mturk to conduct an online survey experiment to test the interaction of caste and religious identity with the identifiable victim effect. I will use an equivalently comparable method, and recruit a sample via an agency. First, participants are shown the experimental prompt: a few sentences of text describing an opportunity for charitable giving. The identity of the recipient receiving the charity is randomised. Participants either see recipients from Muslim, Dalit, upper-caste Hindu or general Indian backgrounds (presented either as victimized groups or identified recipients).  The experiment is thus set up as 4(social identity) x 2 (identifiable, versus statistical group) between group factorial design. Please do note that the original experiment has two statistical treatments for Dalit participants, whereby they are either referred to as Dalits, or the categorical label used for official records 'Scheduled Caste'. However, given that they find no effect of the use of these labels on donations, I will drop this condition while replicating this experiment.Immediately after exposure to the stimuli, participants are asked to rate their willingness to donate. To measure this key dependent variable,  participants are shown a scale ranging from Rs. 0 to 100 and are asked how much money they would be willing to donate. Following this, participants are asked a set of attention check-related questions. Finally, participants rated the similarity of their family to typical members of 10 different social groups cutting across class, caste, religious and neighbourhood characteristics. Followed by a demographic questionnaire.
+Deshpande & Spears (2016) recruited an Indian Sample via Mturk to conduct an online survey experiment to test the interaction of caste and religious identity with the identifiable victim effect. First, participants are shown the experimental prompt: a few sentences of text describing an opportunity for charitable giving. The identity of the recipient receiving the charity is randomised. Participants either see recipients from Muslim, Dalit, upper-caste Hindu or general Indian backgrounds.  The experiment is thus set up as 4(social identity) x 1 (identifiable victim) between group factorial design. Immediately after exposure to the stimuli, participants are asked to rate their willingness to donate. To measure this key dependent variable,  participants are shown a scale ranging from Rs. 0 to 100 and are asked how much money they would be willing to donate. Following this, participants are asked a set of attention check & manipulation check questions. Finally, participants rated the similarity of their family to typical members of 10 different social groups cutting across class, caste, religious and neighbourhood characteristics. Followed by a demographic questionnaire.
+
+Link to the questionnaire:
+https://lse.eu.qualtrics.com/jfe/form/SV_3lRdcGRosB4KV5c
 
 ### Analysis Plan
 
@@ -109,7 +119,17 @@ Expecting socio-economic diversity in my sample,I will add controls for income i
 
 4. I am translating the survey in Hindi.
 
+
+https://github.com/psych251/dhingram-2023-/blob/main/writeup/Replication%20Report%20Template.qmd
+
+https://github.com/psych251/dhingram-2023-
+
+
 ### Methods Addendum (Post Data Collection)
+
+LINK to the paradigm:
+
+https://lse.eu.qualtrics.com/jfe/form/SV_do54v6hPmmOmhTg
 
 You can comment this section out prior to final report with data collection.
 
@@ -141,9 +161,98 @@ Data preparation following the analysis plan.
 
 ### Confirmatory analysis
 
-The analyses as specified in the analysis plan.  
+`
 
-*Side-by-side graph with original graph is ideal here*
+
+
+
+##reading data into R
+
+```{r}
+library("dplyr")
+library("tidyverse")
+
+library(readxl)
+pilotdata_experimental <-read_excel("C:/Users/HP/Downloads/pilotdata_experimental.xlsx")
+View(pilotdata_experimental)
+```
+
+##summarizing the dataset
+
+  
+```{r}
+summary(pilotdata_experimental)
+
+D <- pilotdata_experimental
+
+colnames(D)
+
+```
+
+##Subsetting the data
+
+
+```{r}
+step1 <- select(D, -contains("Objects"), -contains("House size")) 
+filtered_d <- step1
+
+DD <- filtered_d
+
+DDx <- select(DD, -"GS", "HS", "MII", "MSI", "DI")
+
+```
+  
+
+
+##pivoting the data
+
+```{r}
+
+FD <- DDx
+
+
+FD_long <- DDx %>%
+  pivot_longer(
+    cols = c("MI", "GI",, "DI", "HI"),
+    names_to = 'treatment',
+    values_to = 'donations',
+    values_drop_na = TRUE)
+
+
+```
+    
+##plotting the data 
+
+```{r}
+  
+library(ggplot2)
+
+ggplot(data = FD_long, aes(x = treatment, y = donations)) +
+  geom_bar(stat = "identity", fill = "blue") +
+  labs(title = "donations across treatments", x = "Treatments", y = "donations")
+```  
+##Changing treatments to dummy variables in wide form
+
+```{r}
+
+dummy_data <- FD_long %>%
+  mutate(treatment = factor(treatment)) %>%
+  pivot_wider(names_from = treatment, values_from = treatment, values_fn = length, values_fill = 0)
+  
+dummy_data
+
+
+##Linear regression for the main effect:
+  
+model1 <- lm(donations ~ MI + GI + DI + HI, data = dummy_data)
+
+summary(model1)
+
+
+
+
+
+```
 
 ### Exploratory analyses
 
